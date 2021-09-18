@@ -20,5 +20,5 @@ cat 2 >>1.htpy
 mv /1.htpy  /Aria2Rclone.ipynb
 jupyter nbextension enable --py widgetsnbextension --sys-prefix
 jupyter serverextension enable voila --sys-prefix
-curl 'https://raw.githubusercontent.com/developeranaz/Aria2-Rclone-Remote-Uploader-HEROKU/main/Essential-Files/d/donate.developeranaz.txt'
+#curl 'https://raw.githubusercontent.com/developeranaz/Aria2-Rclone-Remote-Uploader-HEROKU/main/Essential-Files/d/donate.developeranaz.txt'
 voila --port=$PORT --no-browser /Aria2Rclone.ipynb --theme=dark
