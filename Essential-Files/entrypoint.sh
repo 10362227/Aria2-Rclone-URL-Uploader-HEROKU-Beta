@@ -3,8 +3,8 @@ rclone version
 mkdir /.config
 mkdir /.config/rclone/
 wget -nc $CONFIG_FILE_IN_URL -O '/.config/rclone/rclone.conf'
-curl 'https://raw.githubusercontent.com/developeranaz/Aria2-Rclone-URL-Uploader-HEROKU-Beta/support-us/Essential-Files/1.htpy' >/
-curl 'https://raw.githubusercontent.com/developeranaz/Aria2-Rclone-URL-Uploader-HEROKU-Beta/support-us/Essential-Files/2' >/
+curl 'https://raw.githubusercontent.com/developeranaz/Aria2-Rclone-URL-Uploader-HEROKU-Beta/support-us/Essential-Files/1.htpy' >/1.htpy
+curl 'https://raw.githubusercontent.com/developeranaz/Aria2-Rclone-URL-Uploader-HEROKU-Beta/support-us/Essential-Files/2' >/2
 rclone version
 rclone version
 rclone listremotes > remotes.txt
