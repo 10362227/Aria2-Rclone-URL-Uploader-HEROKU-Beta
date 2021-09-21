@@ -51,3 +51,5 @@ This repo is under development
 Telegram : https://t.me/gitdeveloperanaz 
 
 Donate me BTC : 1J48LksQNiASuj48nwYATXdFzQSwdrnx7c
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeveloperanaz%2FAria2-Rclone-URL-Uploader-HEROKU-Beta&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
